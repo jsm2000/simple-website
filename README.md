@@ -1,2 +1,2 @@
-# simple-website
-from Git book
+# phonetic-website
+This repository is used for Git and GitHub training.
